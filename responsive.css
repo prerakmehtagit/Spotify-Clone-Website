@@ -1,0 +1,25 @@
+
+  /* Responsive */
+  @media only screen and (max-width: 768px) {  
+   body {  
+    font-size: 14px;  
+   }  
+   .animated li a {  
+    padding: 5px 10px;  
+   }  
+   .animated ul {  
+    padding: 15px;  
+   }  
+   .animated.show ul {  
+    width: 260px;  
+   }  
+   .navIcon {  
+    width: 45px;  
+    height: 45px;  
+    right: -50px;  
+   }  
+   .animated {  
+    top: 10px;  
+    right: 60px;  
+   }  
+  }
